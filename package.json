@@ -1,7 +1,7 @@
 {
   "name": "tasks-react",
   "version": "0.1.0",
-  "": "http://f7418o.github.io",
+  "": "http://f7418o.github.io/tasks-react-CRUD",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
